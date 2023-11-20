@@ -1,0 +1,25 @@
+/* .text-center{
+    text-align: center;
+} */
+.bg-red{
+    background-color: red;
+}
+
+.flex{
+    display: flex;
+}
+.flex-col{
+    flex-direction: column;
+}
+.items-center{
+    align-items: center;
+}
+.special-button {
+    background-color: red;
+}
+.operator-button {
+    background-color:yellowgreen;
+}
+.item-right{
+    align-items: flex-end;
+}
